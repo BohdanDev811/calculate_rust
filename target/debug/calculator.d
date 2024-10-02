@@ -1,0 +1,1 @@
+/home/bansikah/Downloads/Telegram\ Desktop/python/Rust/calculator/target/debug/calculator: /home/bansikah/Downloads/Telegram\ Desktop/python/Rust/calculator/src/main.rs /home/bansikah/Downloads/Telegram\ Desktop/python/Rust/calculator/src/operations.rs
